@@ -1,5 +1,5 @@
-# BOTNET
-Not my code.
+# BOTNET | ABOUT
+Not my code.   
 By Apathycal.
 
 ## Instructions

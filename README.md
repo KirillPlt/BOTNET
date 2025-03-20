@@ -1,3 +1,3 @@
 # BOTNET
 Not my code.
-By Apathical.
+By Apathycal.
